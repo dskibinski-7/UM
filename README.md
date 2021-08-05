@@ -1,2 +1,2 @@
 # UM
-Analysis on the heart attack data
+Analysis and predictions based on the heart attack data
